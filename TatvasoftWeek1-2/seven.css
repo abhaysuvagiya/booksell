@@ -1,0 +1,114 @@
+.img
+{
+    padding-left: 100px;
+}
+
+.class2 
+{
+    float: right;
+    padding: 25px;
+    margin-right: 80px;
+    
+}
+
+.class2-1
+{
+    width: 80.88px;
+    height: 30.88px;
+    border-radius: 6px ;
+    border:groove rgb(238, 238, 238);
+    background-color: white;
+    
+    
+}
+
+input
+{
+    color: #f14d54;
+    background-color: white;
+}
+
+
+.class3-1
+{
+    height: 40px;
+    width: 422px;
+    color: rgb(155, 155, 155);
+    
+    padding-right: 2px;
+    border: ridge rgb(199, 199, 199) 1px;
+}
+
+
+.class3-2
+{
+  background-color: #80bf32;
+  height: 40px;
+  max-width: 129px;
+  color: aliceblue;
+  border: none;
+}
+.class3-3
+{
+    height: 40px;
+    max-width: 129px;
+    background-color: #f14d54;
+    color: aliceblue;
+    font-size: 16px;
+    border: none;
+    
+}
+.fa-solid fa-plus
+{
+    background-color: red;
+}
+
+.class5-1
+{
+    padding-left: 300px;
+}
+
+.class6-1
+{
+    margin: 15px;
+}
+.class6-2
+{
+    line-height: 10px;
+     
+}
+.class7-1
+{
+    margin-left: 65px;
+    
+}
+.class7-2
+{
+    margin-left: 35px;
+    
+}
+.class6-3
+{
+    padding-top: 15px;
+}
+.buttonpm
+{
+    font-size: 18px;
+    align-self: center;
+}
+.class8
+{
+    background-color: #f14d54;
+    color: white;
+    border: none;
+    margin-left: 350px;
+    margin-bottom: 80px;
+}
+.class9-1
+{
+    padding-left: 70px;
+}
+.class9-2
+{
+    padding-left: 100px;
+}

@@ -1,0 +1,116 @@
+img
+{
+    padding-left: 100px;
+}
+
+.class2 
+{
+    float: right;
+    padding: 25px;
+    margin-right: 80px;
+    
+}
+
+.class2-1
+{
+    width: 80.88px;
+    height: 30.88px;
+    border-radius: 6px ;
+    border:groove rgb(238, 238, 238);
+    background-color: white;
+    
+    
+}
+
+input
+{
+    color: #f14d54;
+    background-color: white;
+}
+
+
+.class3-1
+{
+    height: 40px;
+    width: 422px;
+    color: rgb(155, 155, 155);
+    
+    padding-right: 2px;
+    border: ridge rgb(199, 199, 199) 1px;
+}
+
+
+.class3-2
+{
+  background-color: #80bf32;
+  height: 40px;
+  max-width: 129px;
+  color: aliceblue;
+  border: none;
+}
+.class3-3
+{
+    height: 40px;
+    max-width: 129px;
+    background-color: #f14d54;
+    color: aliceblue;
+    font-size: 16px;
+    border: none;
+    
+}
+.class5-1
+{
+    margin-left: 150px;
+}
+.class5-1-1
+{
+    border: ridge rgb(199, 199, 199) 1px;
+    margin-top: 15px;
+    margin-bottom: 35px;
+}
+.class5-1-2
+{
+    margin-top: 15px;
+    border: ridge rgb(199, 199, 199) 1px;
+    margin-bottom: 60px;
+}
+.class5-2
+{
+    margin-left: 200px;
+}
+.class5-2-1
+{
+    border: ridge rgb(199, 199, 199) 1px;
+    margin-top: 15px;
+    margin-bottom: 35px;
+}
+.class5-2-2
+{
+    margin-top: 15px;
+    border: ridge rgb(199, 199, 199) 1px;
+    margin-bottom: 60px;
+}
+
+
+.class7-1
+{
+    width: 100px;
+    height: 40px;
+    background-color:  #80bf32;
+    color: aliceblue;
+    border: none;
+}
+.class7-2
+{
+    width: 100px;
+    height: 40px;
+    background-color:  #f14d54;
+    color: aliceblue;
+    border: none;
+    margin-left: 10px;
+}
+
+.class8-1
+{
+    padding-left: 70px;
+}

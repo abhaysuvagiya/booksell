@@ -1,0 +1,114 @@
+img
+{
+    padding-left: 100px;
+}
+
+.part2 
+{
+    float: right;
+    padding: 25px;
+    margin-right: 80px;
+    
+}
+
+.part2-1
+{
+    width: 80.88px;
+    height: 30.88px;
+    border-radius: 6px ;
+    border:groove rgb(238, 238, 238);
+    background-color: white;
+    
+    
+}
+
+input
+{
+    color: #f14d54;
+    background-color: white;
+}
+
+
+.part3-1
+{
+    height: 40px;
+    width: 422px;
+    color: rgb(155, 155, 155);
+    border: ridge rgb(199, 199, 199) 1px;
+    padding-right: 2px;
+    
+}
+
+.part3-2
+{
+  background-color: #80bf32;
+  height: 40px;
+  max-width: 129px;
+  color: aliceblue;
+  border: none;
+}
+.part3-3
+{
+    height: 40px;
+    max-width: 129px;
+    background-color: #f14d54;
+    color: aliceblue;
+    font-size: 16px;
+    border: none;
+    
+}
+
+.part6-1
+{
+    margin-bottom: 20px;
+    margin-left: 80px;
+}
+
+.part7-1-1
+{
+    border: ridge rgb(199, 199, 199) 1px;
+    margin-top: 15px;
+}
+.part7-1-2
+{
+    border: ridge rgb(199, 199, 199) 1px;
+    margin-top: 15px;
+
+}
+.part7-2
+{
+    margin-left: 120px;
+    
+}
+.part8-1
+{
+    border: ridge rgb(199, 199, 199) 1px;
+    margin-top: 15px;
+}
+.part10-1-1
+{
+    border: ridge rgb(199, 199, 199) 1px;
+    margin-top: 15px;
+}
+.part10-2-1
+{
+    border: ridge rgb(199, 199, 199) 1px;
+    margin-top: 15px;
+    
+}
+.part10-2
+{
+  margin-left: 120px;
+}
+
+.part11-1
+ {     
+ background-color: #f14d54;
+ color: aliceblue;
+ border: none;
+ }
+
+ .part12-1
+{
+    padding-left: 70px;
+}

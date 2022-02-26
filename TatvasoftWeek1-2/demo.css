@@ -1,0 +1,133 @@
+img
+{
+    padding-left: 100px;
+}
+
+.part2 
+{
+    float: right;
+    padding: 25px;
+    margin-right: 80px;
+    
+}
+.part2-1
+{
+    width: 80.88px;
+    height: 30.88px;
+    border-radius: 6px ;
+    border:groove rgb(238, 238, 238);
+    background-color: white;
+        
+}
+
+input
+{
+    color: #f14d54;
+    background-color: white;
+}
+
+.part3-1
+{
+    height: 40px;
+    width: 422px;
+    color: rgb(155, 155, 155);
+    border-radius: 5px ;
+    padding-right: 2px;
+    border-color: rgb(180, 178, 178);
+}
+.part3-2
+{
+  background-color: #80bf32;
+  height: 40px;
+  max-width: 129px;
+  color: aliceblue;
+  border: none;
+}
+.part3-3
+{
+    height: 40px;
+    max-width: 129px;
+    background-color: #f14d54;
+    color: aliceblue;
+    font-size: 16px;
+    border: none;
+    
+}
+
+.part6-1
+{ 
+    padding-right: 400px;
+    border-bottom: solid rgb(199, 199, 199) 1px;
+    padding-bottom: 20px;
+    color: #414141;
+    font-size: 20px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+}
+.part6-2
+{   
+    padding-right: 400px;
+    margin-left: 55px;
+    border-bottom: solid rgb(199, 199, 199) 1px;
+    padding-bottom: 20px;
+    color: #414141;
+    font-size: 20px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.part7-1
+{   
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #838383;
+}
+
+.part7-2
+{   
+    
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: 425px;
+    color: #838383;
+}
+
+.part8-1
+{   
+    
+    padding-bottom: 15px;
+    padding-bottom: 165px;
+    color: #212121;
+}
+
+.part8-2
+{   
+    margin-left: 385px; 
+    padding-bottom: 60px;  
+    color: #212121;
+}
+
+.part9-2
+{   
+    margin-left: 385px; 
+    
+}
+
+
+.part9-1-1
+{   
+    width: 220px;
+    height: 45px;
+    background-color: #f14d54;
+    color: aliceblue;
+}
+.part9-2-1
+{
+    background-color: #f14d54;
+    width: 100px;
+    height: 45px;
+    color: aliceblue;
+}
+.part10-1
+{
+    padding-left: 70px;
+}
